@@ -1,0 +1,9 @@
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/imageviewer.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/edit_cache.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/rebuild_cache.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/list_install_components.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/install.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/install/local.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/install/strip.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/imageviewer_autogen_timestamp_deps.dir
+/home/tensor/workstation/projects/quinoa_qt-image-viewer/build/CMakeFiles/imageviewer_autogen.dir
